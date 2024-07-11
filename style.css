@@ -1,0 +1,11 @@
+section#cardds {
+    padding: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+    /* margin: 15px; */
+    justify-content: center;
+}
+
+.card{
+    margin: 30px;
+}
